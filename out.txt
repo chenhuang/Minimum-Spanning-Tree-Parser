@@ -1,0 +1,59 @@
+no	,	it	was	n't	black	monday	.
+UH	,	PRP	VBD	RB	JJ	NNP	.
+4	4	4	0	6	7	4	4
+
+but	while	the	new	york	stock	exchange	did	n't	fall	apart	friday	as	the	dow	jones	industrial	average	plunged	<num>	points	--	most	of	it	in	the	final	hour	--	it	barely	managed	to	stay	this	side	of	chaos	.
+CC	IN	DT	NNP	NNP	NNP	NNP	VBD	RB	VB	RB	NNP	IN	DT	NNP	NNP	NNP	NNP	VBD	CD	NNS	:	JJS	IN	PRP	IN	DT	JJ	NN	:	PRP	RB	VBD	TO	VB	DT	NN	IN	NN	.
+8	8	7	7	7	7	8	0	8	8	10	8	10	18	18	18	18	19	13	21	19	23	21	23	24	19	29	29	26	23	33	33	19	35	33	37	35	37	38	8
+
+some	``	circuit	breakers	''	installed	after	the	october	<num>	crash	failed	their	first	test	,	traders	say	,	unable	to	cool	the	selling	panic	in	both	stocks	and	futures	.
+DT	``	NN	NNS	''	VBN	IN	DT	NNP	CD	NN	VBD	PRP$	JJ	NN	,	NNS	VBP	,	JJ	TO	VB	DT	NN	NN	IN	DT	NNS	CC	NNS	.
+4	4	4	12	4	4	6	11	11	11	12	0	15	15	17	18	18	7	18	17	22	20	25	25	22	25	28	30	30	26	18
+
+the	<num>	stock	specialist	firms	on	the	big	board	floor	--	the	buyers	and	sellers	of	last	resort	who	were	criticized	after	the	<num>	crash	--	once	again	could	n't	handle	the	selling	pressure	.
+DT	CD	NN	NN	NNS	IN	DT	NNP	NNP	NN	:	DT	NNS	CC	NNS	IN	JJ	NN	WP	VBD	VBN	IN	DT	CD	NN	:	RB	RB	MD	RB	VB	DT	NN	NN	.
+5	5	5	5	0	5	10	10	10	6	29	13	15	15	6	15	18	16	18	19	20	21	25	25	22	21	28	29	30	29	29	34	34	31	29
+
+big	investment	banks	refused	to	step	up	to	the	plate	to	support	the	beleaguered	floor	traders	by	buying	big	blocks	of	stock	,	traders	say	.
+JJ	NN	NNS	VBD	TO	VB	RP	TO	DT	NN	TO	VB	DT	JJ	NN	NNS	IN	VBG	JJ	NNS	IN	NN	,	NNS	VBP	.
+3	3	4	0	6	4	6	6	10	8	12	10	16	16	16	12	16	17	20	18	20	21	25	25	21	4
+
+heavy	selling	of	standard	&	poor	's	<num>-stock	index	futures	in	chicago	relentlessly	beat	stocks	downward	.
+JJ	NN	IN	NNP	CC	NNP	POS	JJ	NN	NNS	IN	NNP	RB	VBD	NNS	RB	.
+2	0	2	6	7	7	10	10	10	3	10	11	14	11	14	14	14
+
+seven	big	board	stocks	--	ual	,	amr	,	bankamerica	,	walt	disney	,	capital	cities\/abc	,	philip	morris	and	pacific	telesis	group	--	stopped	trading	and	never	resumed	.
+CD	NNP	NNP	NNS	:	NNP	,	NNP	,	NNP	,	NNP	NNP	,	NNP	NNP	,	NNP	NNP	CC	NNP	NNP	NNP	:	VBD	NN	CC	RB	VBD	.
+4	4	4	13	23	10	8	10	10	19	16	13	16	23	16	23	25	19	23	23	23	23	25	25	0	25	29	29	0	29
+
+the	finger-pointing	has	already	begun	.
+DT	NN	VBZ	RB	VBN	.
+2	3	0	3	3	3
+
+``	the	equity	market	was	illiquid	.
+``	DT	NN	NN	VBD	JJ	.
+5	4	4	5	0	5	5
+
+once	again	{	the	specialists	}	were	not	able	to	handle	the	imbalances	on	the	floor	of	the	new	york	stock	exchange	,	''	said	christopher	pedersen	,	senior	vice	president	at	twenty-first	securities	corp	.
+RB	RB	-LRB-	DT	NNS	-RRB-	VBD	RB	JJ	TO	VB	DT	NNS	IN	DT	NN	IN	DT	NNP	NNP	NNP	NNP	,	''	VBD	NNP	NNP	,	JJ	NN	NN	IN	NNP	NNP	NNP	.
+8	1	5	5	11	5	25	9	7	11	9	13	11	13	16	14	16	21	22	22	22	31	25	25	0	27	31	31	31	31	25	31	35	35	32	25
+
+countered	james	maguire	,	chairman	of	specialists	henderson	brothers	inc.	:	``	it	is	easy	to	say	the	specialist	is	n't	doing	his	job	.
+VBD	NNP	NNP	,	NN	IN	NNS	NNP	NNP	NNP	:	``	PRP	VBZ	JJ	TO	VB	DT	NN	VBZ	RB	VBG	PRP$	NN	.
+20	3	5	5	1	5	10	10	10	6	14	14	14	0	14	17	15	19	20	17	20	20	24	22	14
+
+when	the	dollar	is	in	a	free-fall	,	even	central	banks	ca	n't	stop	it	.
+WRB	DT	NN	VBZ	IN	DT	NN	,	RB	JJ	NNS	MD	RB	VB	PRP	.
+4	3	4	0	4	7	5	12	10	11	12	16	12	12	14	4
+
+speculators	are	calling	for	a	degree	of	liquidity	that	is	not	there	in	the	market	.	''
+NNS	VBP	VBG	IN	DT	NN	IN	NN	WDT	VBZ	RB	RB	IN	DT	NN	.	''
+2	0	2	3	6	4	6	7	8	9	10	11	10	15	13	2	2
+
+many	money	managers	and	some	traders	had	already	left	their	offices	early	friday	afternoon	on	a	warm	autumn	day	--	because	the	stock	market	was	so	quiet	.
+JJ	NN	NNS	CC	DT	NNS	VBD	RB	VBN	PRP$	NNS	RB	NNP	NN	IN	DT	JJ	NN	NN	:	IN	DT	NN	NN	VBD	RB	JJ	.
+3	3	6	6	6	7	0	7	7	11	9	14	14	7	14	19	19	19	15	14	24	24	24	15	24	27	25	7
+
+then	in	a	lightning	plunge	,	the	dow	jones	industrials	in	barely	an	hour	surrendered	about	a	third	of	their	gains	this	year	,	chalking	up	a	<num>-point	,	or	<num>	%	,	loss	on	the	day	in	gargantuan	trading	volume	.
+RB	IN	DT	NN	NN	,	DT	NNP	NNP	NNS	IN	RB	DT	NN	VBD	IN	DT	JJ	IN	PRP$	NNS	DT	NN	,	VBG	RP	DT	JJ	,	CC	CD	NN	,	NN	IN	DT	NN	IN	JJ	NN	NN	.
+2	15	5	5	2	15	10	10	10	15	10	13	14	11	0	15	16	16	18	21	23	23	19	34	15	25	32	32	34	32	32	25	34	28	34	3
